@@ -51,7 +51,7 @@ See [`paper/`](paper/) for the full write-up and [`results/`](results/) for all 
 │   └── make_dataset.py     # builds the shared KOSPI200 dataset CSV
 ├── src/
 │   └── (shared helper functions, if extracted from notebooks)
-├── notebooks/
+├── code/
 │   ├── xgboost_final.ipynb
 │   ├── randomforest_final.ipynb
 │   ├── transformer_final.ipynb

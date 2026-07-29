@@ -10,7 +10,7 @@ type: software
 authors:
   - given-names: Kyungmo
     family-names: Doh
-    # orcid: 'https://orcid.org/0000-0000-0000-0000'  # add once you register
+    # orcid: 'https://orcid.org/0009-0009-2023-3147
 abstract: >-
   An empirical study of out-of-distribution robustness in
   volatility forecasting on the KOSPI200. Six models are
@@ -28,6 +28,6 @@ keywords:
   - out-of-distribution robustness
   - mean reversion
 license: MIT
-# version: 1.0.0            # set on your first Zenodo release
-# doi: 10.5281/zenodo.XXXXX # Zenodo fills this after release
-# date-released: 2026-XX-XX
+# version: 1.0.1           
+# doi: 10.5281/zenodo.21676173
+# date-released: 2026-07-29
