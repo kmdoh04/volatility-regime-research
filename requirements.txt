@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy>=1.24,<2.0
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+
+# Gradient boosting
+xgboost>=2.0
+
+# Deep learning (Transformer + PINN models)
+tensorflow>=2.15,<2.22
+
+# Data download
+yfinance>=0.2.40
+
+# Notebooks & plotting
+jupyter>=1.0
+matplotlib>=3.7
+nbformat>=5.9
+
+# Note:
+#   TensorFlow pins the upper bound because the model code was validated on the
+#   2.15–2.21 line. Newer majors may change Keras APIs (e.g. keras 3 defaults).
+#   If you hit Keras import issues, either install `tf-keras` or pin
+#   tensorflow to a 2.1x release.

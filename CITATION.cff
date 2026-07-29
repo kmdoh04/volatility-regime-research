@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: >-
+  Cross-Regime Robustness of Volatility Forecasting: Why a
+  Two-Parameter Mean-Reversion Anchor Generalizes Where
+  XGBoost, Random Forests, and Transformers Fail
+message: >-
+  If you use this software or the accompanying paper,
+  please cite it using these metadata.
+type: software
+authors:
+  - given-names: FIRST_NAME
+    family-names: LAST_NAME
+    # orcid: 'https://orcid.org/0000-0000-0000-0000'  # add once you register
+abstract: >-
+  An empirical study of out-of-distribution robustness in
+  volatility forecasting on the KOSPI200. Six models are
+  compared under controlled regime transitions. Data-driven
+  models (XGBoost, Random Forest, Transformer) retain strong
+  in-regime skill but zero cross-regime skill, failing
+  asymmetrically. A two-parameter mean-reversion anchor with
+  an adaptive long-run level generalizes across regimes; a
+  neural network inherits this robustness only when the
+  anchor is injected architecturally, not as a soft penalty.
+keywords:
+  - cross-regime generalization
+  - realized volatility
+  - physics-informed neural networks
+  - out-of-distribution robustness
+  - mean reversion
+license: MIT
+# version: 1.0.0            # set on your first Zenodo release
+# doi: 10.5281/zenodo.XXXXX # Zenodo fills this after release
+# date-released: 2026-XX-XX
