@@ -122,6 +122,14 @@ If you reference this work, please cite it using the metadata in [`CITATION.cff`
 
 ---
 
+## How to cite
+
+Doh, K. Cross-Regime Robustness of Volatility Forecasting: Why a Two-Parameter
+Mean-Reversion Anchor Generalizes Where XGBoost, Random Forests, and Transformers
+Fail [article]. https://doi.org/10.5281/zenodo.21676173
+
+---
+
 ## License
 
 Released under the MIT License — see [`LICENSE`](LICENSE). You are free to use, modify, and build on this work with attribution.
