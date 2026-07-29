@@ -8,8 +8,8 @@ message: >-
   please cite it using these metadata.
 type: software
 authors:
-  - given-names: FIRST_NAME
-    family-names: LAST_NAME
+  - given-names: Kyungmo
+    family-names: Doh
     # orcid: 'https://orcid.org/0000-0000-0000-0000'  # add once you register
 abstract: >-
   An empirical study of out-of-distribution robustness in
