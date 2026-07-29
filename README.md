@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1316063926.svg)](https://doi.org/10.5281/zenodo.21675714)
 # Cross-Regime Robustness of Volatility Forecasting
 
 **Why a two-parameter mean-reversion anchor generalizes where XGBoost, Random Forests, and Transformers fail.**
